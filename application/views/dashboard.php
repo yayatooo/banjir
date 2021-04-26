@@ -52,6 +52,7 @@
 <script src="<?=base_url('assets/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js')?>"></script>
 <!-- AdminLTE App -->
 <script src="<?=base_url('assets/dist/js/adminlte.js')?>"></script>
+<script src="<?=base_url('assets/plugins/apexchart/apexcharts.min.js');?>"></script>
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
